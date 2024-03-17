@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<b>##Firstt Run npm i</b><br>
+<br><b size=8>##Firstt Run npm i</b><br>
 <p>To install node Modual in you`re react file</p>
 ## Available Scripts
 
